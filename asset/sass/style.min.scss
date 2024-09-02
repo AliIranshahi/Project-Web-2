@@ -1,0 +1,10 @@
+@use"boot";
+@use"header";
+@use"layout";
+@use"animate";
+@use"main";
+@use"swiperinit";
+body{
+    background-color: #eee;
+    min-width: 100%;
+}

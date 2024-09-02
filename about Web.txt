@@ -1,0 +1,8 @@
+Developing by : Ali iranshahi
+------------------------------------
+Current status: Under development
+------------------------------------
+powered : JavaScript - HTML - Css - Sass - Bootstrap - jQuery -
+Typed Library - Metal Library - animation aos + animation css
+------------------------------------
+CopyRight Link WEB : 
